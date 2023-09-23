@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1 align="center"><img src="https://slackmojis.com/emojis/65018-cat-roomba-exceptionally-fast" width="30"/> Hey, nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Raghav, A Commerce Student who aspires to become a Developer , from <img src="https://cdn-icons-png.flaticon.com/512/206/206606.png" width="16"/> <b> India </b>. </p>
